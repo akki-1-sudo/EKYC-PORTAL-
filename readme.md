@@ -128,10 +128,9 @@ Feel free to open an issue if you encounter any problems or have questions about
 
 ## Author
 
-This project is authored by Abhishek Singh, a final year B.Tech CSE undergraduate at IIIT Bhagalpur. You can reach me at abhishekrathore1806@gmail.com.
-
+This project is authored by AKSHAT AGARWAL,Mamta Kanwar,Hith Jain,Jhilmil Jain, a final year B.Tech CSE undergraduate at ARYA College of Engineerinn and IT. You can reach us at akshatagr228@gmail.com.,rathoremamta2004@gmail.com.,hithjain2003@gmail.com.,jhilmilj28@gmail.com.
 ## Contributing
 
-I am open to contributions! If you can work on the possible areas of improvement or have other enhancements in mind, feel free to fork the repository, make your changes, and initiate a pull request. If the changes are legitimate and add value to the project, I will merge them.
+We are  open to contributions! If you can work on the possible areas of improvement or have other enhancements in mind, feel free to fork the repository, make your changes, and initiate a pull request. If the changes are legitimate and add value to the project, I will merge them.
 
 Happy coding! 😊
